@@ -1,0 +1,10 @@
+#luxometro.dat
+
+#col1: distancia (d+- 0.001)m
+#col2: iluminacion (i+-1) lux
+
+0.070, 3370
+0.140, 1250
+0.210, 620
+0.280, 380
+0.350, 240

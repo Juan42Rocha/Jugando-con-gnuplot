@@ -1,0 +1,998 @@
+
+
+*******************************************************************************
+Mon Sep 22 11:45:34 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Sep 22 11:45:52 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Sep 22 11:46:19 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Sep 22 11:47:30 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= A / (x**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 1.2006004532e+07  0.00e+00 9.49e+01  1.000000e+00
+   3 2.4692752299e+05 -5.27e-01 9.49e-02  1.716591e+01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 246928
+rel. change during last iteration : -5.27018e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 248.459
+variance of residuals (reduced chisquare) = WSSR/ndf   : 61731.9
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 17.1659          +/- 1.171        (6.823%)
+
+
+*******************************************************************************
+Mon Sep 22 11:48:00 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= A / (x**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 1.2006004532e+07  0.00e+00 9.49e+01  1.000000e+00
+   3 2.4692752299e+05 -5.27e-01 9.49e-02  1.716591e+01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 246928
+rel. change during last iteration : -5.27018e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 248.459
+variance of residuals (reduced chisquare) = WSSR/ndf   : 61731.9
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 17.1659          +/- 1.171        (6.823%)
+
+
+*******************************************************************************
+Mon Sep 22 11:48:44 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Sep 22 11:49:27 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= A / (x**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 1.2006004532e+07  0.00e+00 9.49e+01  1.000000e+00
+   3 2.4692752299e+05 -5.27e-01 9.49e-02  1.716591e+01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 246928
+rel. change during last iteration : -5.27018e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 248.459
+variance of residuals (reduced chisquare) = WSSR/ndf   : 61731.9
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 17.1659          +/- 1.171        (6.823%)
+
+
+*******************************************************************************
+Mon Sep 22 11:50:34 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A            
+   0 1.2006004532e+07  0.00e+00 9.49e+01  1.000000e+00
+   3 2.4692752299e+05 -5.27e-01 9.49e-02  1.716591e+01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 246928
+rel. change during last iteration : -5.27018e-006
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 248.459
+variance of residuals (reduced chisquare) = WSSR/ndf   : 61731.9
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 17.1659          +/- 1.171        (6.823%)
+
+
+*******************************************************************************
+Mon Sep 22 11:52:40 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.2006004532e+07  0.00e+00 6.71e+01  1.000000e+00  1.000000e+00
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Mon Sep 22 11:53:05 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 11:53:15 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:00:49 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:02:33 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:02:42 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:04:26 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:04:54 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:05:08 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:05:53 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:06:26 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:06:49 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:07:26 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:08:58 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:09:58 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:10:18 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:15:32 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Mon Sep 22 12:16:28 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Wed Sep 24 09:01:14 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Wed Sep 24 09:01:26 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Sat Oct 11 18:53:48 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 1.3382e+007       delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-005
+ lambda	  : 14.2421
+
+initial set of free parameter values
+
+A               = 1
+B               = 1
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+
+correlation matrix of the fit parameters:
+
+               A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Wed Nov 26 12:35:51 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 
+
+
+*******************************************************************************
+Wed Nov 26 12:37:09 2014
+
+
+FIT:    data read from "luxometro.dat" using 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: I(x)
+	I(x)= A / (x**B)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             B            
+   0 1.3381965363e+07  0.00e+00 1.42e+01  1.000000e+00  1.000000e+00
+  69 9.1943207808e+03 -1.08e-01 1.42e-04  5.969930e+01  1.518066e+00
+
+After 69 iterations the fit converged.
+final sum of squares of residuals : 9194.32
+rel. change during last iteration : -1.07514e-006
+
+degrees of freedom    (FIT_NDF)                        : 3
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 55.3604
+variance of residuals (reduced chisquare) = WSSR/ndf   : 3064.77
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 59.6993          +/- 6.927        (11.6%)
+B               = 1.51807          +/- 0.04544      (2.993%)
+
+correlation matrix of the fit parameters:
+                A      B      
+A               1.000 
+B              -0.992  1.000 

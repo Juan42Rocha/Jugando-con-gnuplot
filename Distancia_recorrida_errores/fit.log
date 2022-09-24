@@ -1,0 +1,1350 @@
+
+
+*******************************************************************************
+Wed Sep 17 12:28:03 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat"
+        format = z
+        t range restricted to [0.000000 : 10.0000]
+BREAK: No data to fit
+
+*******************************************************************************
+Wed Sep 17 12:31:14 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:32:18 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:32:57 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:33:23 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:33:48 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:33:56 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:34:23 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:34:45 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:35:04 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 17 12:35:26 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+                                                                                                                                                                                                                                                                                                                                                                                     9
+    A a
+    B b
+    C c
+    D d
+    E e
+    F f
+    G g
+    H h
+    I i
+    J j
+    K k
+    L l
+    M m
+    N n
+    O o
+    P p
+    Q q
+    R r 
+    S s
+    T t
+    U u
+    V v 
+    W w
+    X x 
+    Y y
+    Z z
+    ∆ Ê
+    ÿ ¯
+    ≈ Â
+    ƒ ‰
+    ÷ ˆ
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% END OF FILE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                                                                                                                                  §V:-7W∑≤éòtπá:•RMäëm	6"S±Œ&¶¡Çºåµ˘rbS$≤Å—ã»yì·∫r∑é¸Ω  ™\f:avày“ïµõIƒ…†0çAƒ¨L“$Y{≠6 ~‚yÙSRñ˘0L˘Í_H√¬aÃ-] $»|T\U∑rot´: ÄWÙ∂¬ïï®}Clπ!á,§"<U&óÜ8>Òp»∂|èŸˇ˚Rd‡ÄÚà)U”,d     
+dßUL<…ê  4Ä  [¶Ò#@]K$îˆ[∆!ü>‘ﬂì≈Hc?-C˚¶˛‹◊#ï!j4ùÿ2œjım* %Pî<§”£0Ä‚ ÏIÜu"‚“ı¬ËìLÒ$EÇcW Í’≠∫r|î:‹=‹ô√fÓ~HíAÛ3),!çàÓO4X»ä`($≤”“ªú k $Î(à-Q:øA‚H*_6æ“€G—ÿ}A1Ò†à&ém.$!B‘!*ˇ˚Rd‰ÄÚÖ'TSBT     AEM0kÄ  4Ä  tR≈†ÈN@∆3£Ó∂fYJäï|ıznÀl˛ÛÌ9òSƒ(≥ ñiUÙ.™.   Æ[Û∂B†4Ê^Ú≤H√ó¬`àÒÿ¶N¬¡ïåDñN&gœ?îS+F‰í◊Wù∂D"9◊jª“vsnì˜i\QâE‰@d∏0rÒ™ÜˇÈeE‰CÜÀÑ–Hß+öâÇf8&ƒUA»Û6Èo’¸sGˇ˚RdÂÄÚZ%–À)P     
+|É=1)H  4Ä  €’Úî:>:¯û,…Hãf›^©§≈ª%k°d–Ø#+!h˜Óüï‚ÜXp$í 8G≈û-•∂≈!/Æç∑+Hë¿∆b°.,Á„ô∆q]V."üX‚X∑,‹÷∞=é;jN◊k›¥åÕ)WÜ–ÕEΩ–ç•‹ç9Î ﬂv,B}€r˛‰â’íÿ^ By∞…`Uúc¯	¿‰%ä%a»  ¿`  Å"ˇ˚RdÏ Ú∞)œKL`     
+ê„A¨§KÄ  4Ä  C]àcF⁄àÑÁqƒ¢29‹ÑcùL®Âr1VÈ»›≤7v˛≠UOd”K¨®HKI€ÏR 
+º%i"ì∂`0¿/IKOaÑBéÇ
+_N¡mJ9ÚÓ÷
+ÖÎÀVêS™IÍ%@F^ŸÙï~ëE§kπÿÌ‚ïPß¡@8Q"≠±ÜJ8LkVß	œw°
+†PP“,±Ä¥Ü∏”÷Ü·ÿ¡+µí0Xˇ˚RdÌ Ú¿4Œ”)‡     ’U'°∏  4Ä  P|x”ãVoÜoß/Ëqu	ä“djU¨oÖ”¶K|∆U‚¨uÆtzÂ„ΩñÜÃ˙é˘Ô⁄` Yv)t≤ãCIhå†Yã∂`∞®ËÅRë%¢#àOQyÕ)˝ï(,Ä#©>LwÎyEõZØst$‚¿°&)ƒ¨ÈÊñuh"jß¿A¬£˛Á†≠ ÄHÂ@‘F\â
+∞&D¢,≈ôŒz%«ö˘SåZÒL◊ˇ˚RdË Ú¶8“ÈÏ‡     
+úﬂK'§KÄ  4Ä  ßI•nH–ÁAE%˙1ªÈ|ˇ„w}É€|¸ìò[¥Y/6&:6‚¬SÈkÁú_sj∞5˚Kdç¡DQÿóRÎ¬·ΩÆßÄ‡6`\√Aˆß'ÎOöcﬂsc£KÁVL»∑:jvóÂñ∆ßñàk*¶øµÛXåyu.∞U¯ˆùW,˝ˇ?˜œùÄ Á$ç∑÷˘ ⁄ÚQ
+yN‡A,ù†œ#;è”ì3˙t™j~=Ñé¬€ˇ˚RdÈÄÚÿ,“K/`     
+ªY¨$i®  4Ä  
+a£íπ'µΩîA•h?7Úm˛ç˛6ÔìgõWı≥ 1ko¯ˇÀæ›  îêT%£A4à1√ã0 –(ÊÄïZ∞i∞
+Ï%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% FILE: 88592pl.csf
+%%
+%%       External configuration file for the implementation of BiBTeX with 
+%%       8-bit character set support which is available under GNU Public 
+%%       Licence in CTAN, also ftp.gust.org.pl/TeX/biblio/bibtex/8-bit/
+%%     
+%%       Prepared by Andrzej Borzyszkowski (A.Borzyszkowski@ipipan.gda.pl)
+%%       This file is in the public domain.
+%%
+%% Date: 5 March 1999
+%%
+%% CHARACTER SET: ISO 8859-2
+%%
+%%      ISO 8859-2 is the system character set used by Unix/X Window.
+%%
+%% SORTING ORDER: Polish
+%%
+%%      Alphabetical sorting order of 0..9Aa..Zz
+%%      (including accented characters)
+%%      (non-Polish characters are ordered disregarding accents)
+%%      (lower-upper case relation is defined for all accented characters)
+%%
+%% WARNING
+%%
+%%      This is a BibTeX Codepage and Sort definition file (CSF).  It is
+%%      used to define the 8-bit character set used by BibTeX and the
+%%      order in which those characters should be sorted.  The file
+%%      format is documented below this header section.
+%%
+%%      This file will only work with the 8-bit implementation of BibTeX
+%%      written by Niel Kempson and Alejandro Aguilar-Sierra.  It is
+%%      available by anonymous FTP from these Comprehensive TeX Archive
+%%      Network (CTAN) sites:
+%%
+%%          ftp.tex.ac.uk:/tex-archive/biblio/bibtex/8-bit
+%%          ftp.shsu.edu:/tex-archive/biblio/bibtex/8-bit
+%%          ftp.uni-stuttgart.de:/tex-archive/biblio/bibtex/8-bit
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% FILE FORMAT
+%%
+%%  The codepage and sorting order (CS) file defines how BibTeX will treat an
+%%  8-bit character set, specifically which characters are to be treated as
+%%  letters, the upper/lower case relationships between characters, and the
+%%  sorting order of characters.
+%%
+%%  The CS file may contain a number of sections, each presented in the
+%%  form of a TeX macro:
+%%
+%%      \section-name{
+%%          <section definitions>
+%%      }
+%%
+%%  Four sections are currently supported: \lowupcase, \lowercase, \uppercase
+%%  and \order.  The syntax of the four supported sections is summarised below.
+%%
+%%  8-bit characters may be entered naturally, but to avoid problems with
+%%  character set translation or corruption, they can also be entered using
+%%  the TeX-style portable notation for character codes, i.e. ^^XX, where XX
+%%  is the hexadecimal value ofthe character code.
+%%
+%%  Reading of the sections ends when the first '}' character is reached, so
+%%  '}' can't be included in a section.  You can't use ^^7d either.
+%%
+%%  The percent sign ('%') is used to introduce a 
+
+*******************************************************************************
+Thu Sep 18 20:17:53 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:19:17 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:20:05 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:20:26 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:2
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.0948000000e+02  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 1.2097334967e+01 -4.29e-05 4.17e-04  1.167866e-01  1.501225e+00
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 12.0973
+rel. change during last iteration : -4.29417e-010
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.31461
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.72819
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 0.116787         +/- 0.1726       (147.8%)
+v0              = 1.50123          +/- 1.002        (66.75%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:20:36 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:20:46 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 2:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.6012000000e+04  0.00e+00 1.86e+00  1.000000e+00  1.000000e+00
+   4 3.2870344828e+03 -4.53e-07 1.86e-04  2.379310e+00  4.831034e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 3287.03
+rel. change during last iteration : -4.53193e-012
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 21.6697
+variance of residuals (reduced chisquare) = WSSR/ndf   : 469.576
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 2.37931          +/- 6.036        (253.7%)
+v0              = 48.3103          +/- 14.65        (30.32%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.870  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:21:20 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:28:22 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 4:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.7725110000e+04  0.00e+00 7.57e-01  1.000000e+00  1.000000e+00
+   3 3.3566200000e+03 -1.28e-01 7.57e-04  2.600012e+00  5.255333e+01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 3356.62
+rel. change during last iteration : -1.27565e-006
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 21.8979
+variance of residuals (reduced chisquare) = WSSR/ndf   : 479.517
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 2.60001          +/- 30.97        (1191%)
+v0              = 52.5533          +/- 11.81        (22.48%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.786  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:28:42 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:29:37 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Thu Sep 18 20:30:49 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Wed Sep 24 09:01:48 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:56:58 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:58:32 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:59:06 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:59:22 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:59:30 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:59:49 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 20:59:55 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Tue Nov 25 21:00:06 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Mon Dec 01 18:18:25 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Mon Dec 01 18:24:06 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 
+
+
+*******************************************************************************
+Mon Dec 01 18:24:30 2014
+
+
+FIT:    data read from "distancia_tiempo_errores.dat" using 3:1
+        format = t:z
+        t range restricted to [0.000000 : 10.0000]
+        #datapoints = 9
+        residuals are weighted equally (unit weight)
+
+function used for fitting: x(t)
+	x(t)= v*t+v0
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   v             v0           
+   0 2.2516880000e+04  0.00e+00 4.17e+00  1.000000e+00  1.000000e+00
+   4 5.2358400980e+01 -3.44e-03 4.17e-04  7.549395e+00  1.390871e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 52.3584
+rel. change during last iteration : -3.43689e-008
+
+degrees of freedom    (FIT_NDF)                        : 7
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.73492
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7.47977
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+v               = 7.5494           +/- 0.359        (4.755%)
+v0              = 13.9087          +/- 2.085        (14.99%)
+
+correlation matrix of the fit parameters:
+                v      v0     
+v               1.000 
+v0             -0.899  1.000 

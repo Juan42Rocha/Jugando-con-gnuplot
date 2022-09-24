@@ -1,0 +1,32 @@
+#set term wxt persist enhanced size 800,600
+set term pngcairo enhanced size 800,600
+set output "comparation.png"
+
+
+set multiplot  layout 2,2 title "Carl vs Usain Bolt" 
+
+set xlabel "(a)tiempo[s]"
+set ylabel "Desplazamiento [m]"
+set key  at 80,4
+plot "Chispas_contra_Carlitos.dat" u 2:1 w lp  t "Carl Lewis", ""\
+u 3:1 w lp t "Usain Bolt"
+
+set xlabel "Tiempo [s]"
+set ylabel "Velocidas [m/s]"
+set key  at 80,8
+plot "Chispas_contra_Carlitos.dat" u 2:4 w lp  t "Carl Lewis", ""\
+u 3:5 w lp t "Usain Bolt"
+
+set ylabel "Aceleracion (m/s²)"
+set xlabel "Tiempo[s]"
+set key  at 40,-2
+plot "Chispas_contra_Carlitos.dat" u 2:6 w lp  t "Carl Lewis", ""\
+u 3:7 w lp t "Usain Bolt"
+
+set xlabel "Despalzamiento [m]"
+set ylabel "potenica[w]"
+set key  at 80,300000
+plot "Chispas_contra_Carlitos.dat" u 2:8 w lp t "Carl Lewis",""\
+u 3:9 w lp t "Usain Bolt"
+unset multiplot
+unset output
