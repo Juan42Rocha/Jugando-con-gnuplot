@@ -2,7 +2,7 @@
 
 #Aquí están los ejercicios con gnuplot, son ejemplos de lo que es posible hacer con gnuplot.
 
-#01_Punto_recta:                           Grafica rectas y otras funciones.
+#01_Punto_recta:                           Grafica rectas y otras funciones.<br>
 #02_Circulo:                               Grafica circunferencias.
 #03_Terminales                             Terminales para exportar archivos.
 #04_Uso_multiplot_func_tirg                Ejemplos de multiples plots en la misma figura.
